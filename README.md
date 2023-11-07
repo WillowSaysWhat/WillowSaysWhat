@@ -13,3 +13,4 @@
 📫 Connect with me:
 - LinkedIn: [https://www.linkedin.com/in/huw-williams-825744ba/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillowSaysWhat)](https://github.com/anuraghazra/github-readme-stats)
