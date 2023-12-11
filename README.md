@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willowsayswhat&label=Profile%20views&color=0e75b6&style=flat" alt="willowsayswhat" /> </p>
 
-- 🔭 I’m currently working on **LiveCharts2 [Angular Guages](https://github.com/WillowSaysWhat/Simple-LiveCharts-Anguar-Gauge) Tutorial for beginner WinForm Students**.
+- 🔭 I’m currently working on **My 2nd Event Driven Assignment [Remote Fight Controller][(https://github.com/WillowSaysWhat/Simple-LiveCharts-Anguar-Gauge](https://github.com/WillowSaysWhat/Remote-Flight-Controller))**.
 
 - 🌱 I’m currently learning **C# WinForms, Flutter, C++**
 
