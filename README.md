@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My 2nd Event Driven Assignment [Remote Fight Controller](https://github.com/WillowSaysWhat/Remote-Flight-Controller)**.
 
-- 🌱 I’m currently learning **C# WinForms, Flutter, C++**
+- 🌱 I’m currently learning **C# WinForms, Flutter,, Dart, C++**
 
 - 💬 Ask me about **Angular Gauges - I added them to my Remote Flight Controller**
 
