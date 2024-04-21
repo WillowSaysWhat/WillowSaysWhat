@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willowsayswhat&label=Profile%20views&color=0e75b6&style=flat" alt="willowsayswhat" /> </p>
 
-- 🔭 I’m currently working on **My 2nd Event Driven Assignment [Remote Fight Controller](https://github.com/WillowSaysWhat/Remote-Flight-Controller)**.
+- 🔭 I’m currently working on **Learning Swift and IOS development**.
 
-- 🌱 I’m currently learning **C# WinForms, Flutter, Dart, C++**
+- 🌱 I’m currently learning **C# WinForms, Flutter, Dart, C++, Swift**
 
-- 💬 Ask me about **Angular Gauges - I added them to my Remote Flight Controller**
+- 💬 Ask me about **How I could be your next Junior Dev**
 
 - ⚡ Fun fact **I am both British and Australian.**
 
