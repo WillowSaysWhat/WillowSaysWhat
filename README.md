@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Building an anti-cheat feature for iOS fitness apps**.
 
-- 🌱 I’m currently learning **How Ukraine is implementing object-recognition to engage in drone warfare**
+- 🌱 I’m currently learning **How Ukraine is implementing object-recognition to engage in drone warfare.**
 
-- 💬 Ask me about **How I could be your next Junior Dev**
+- 💬 Ask me about **How I could be your next Junior Dev.**
 
 - ⚡ Fun fact **I am both British and Australian.**
 
