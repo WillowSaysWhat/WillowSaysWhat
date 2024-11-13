@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willowsayswhat&label=Profile%20views&color=0e75b6&style=flat" alt="willowsayswhat" /> </p>
 
-- 🔭 I’m currently working on **Learning Swift and IOS development**.
+- 🔭 I’m currently working on **Building an anti-cheat feature for iOS fitness apps**.
 
-- 🌱 I’m currently learning **C# WinForms, Flutter, Dart, C++, Swift**
+- 🌱 I’m currently learning **How Ukraine is implementing object-recognition to engage in drone warfare**
 
 - 💬 Ask me about **How I could be your next Junior Dev**
 
