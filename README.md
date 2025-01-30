@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Huw Williams</h1>
+<h1 align="center">Hi 👋, I'm Huw Williams (WillowsaysWhat)</h1>
 <h3 align="center">Computer Science Student @ University of South Wales</h3>
-
+<h3 align="center">YouTuber and ARMA community Leader</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willowsayswhat&label=Profile%20views&color=0e75b6&style=flat" alt="willowsayswhat" /> </p>
 
 - 🔭 I’m currently working on **Building an anti-cheat feature for iOS fitness apps**.
