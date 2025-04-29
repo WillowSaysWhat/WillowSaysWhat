@@ -3,11 +3,11 @@
 <h3 align="center">YouTuber and ARMA community Leader</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willowsayswhat&label=Profile%20views&color=0e75b6&style=flat" alt="willowsayswhat" /> </p>
 
-- 🔭 I’m currently working on **Building an anti-cheat feature for iOS fitness apps**.
+- 🔭 I’m currently working on **deploying my app to the Apple AppStore**.
 
-- 🌱 I’m currently learning **How Ukraine is implementing object-recognition to engage in drone warfare.**
+- 🌱 I’m currently learning **more about Mobile App Development**
 
-- 💬 Ask me about **How I could be your next Junior Dev.**
+- 💬 Ask me about **how I could be your next Junior Dev.**
 
 - ⚡ Fun fact **I am both British and Australian.**
 
