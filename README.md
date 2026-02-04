@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Huw Williams (WillowsaysWhat)</h1>
+<h1 align="center">Hi 👋, I'm Huw Williams (WillowSaysWhat)</h1>
 <h3 align="center">2025 Graduate CompSci @ University of South Wales</h3>
 <h3 align="center">YouTuber and Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willowsayswhat&label=Profile%20views&color=0e75b6&style=flat" alt="willowsayswhat" /> </p>
