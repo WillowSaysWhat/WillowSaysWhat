@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Gettin' awesome at future-proofing**.
 
-- 🌱 I’m learning **AI Agentic Development **
+- 🌱 I’m learning **AI Agentic Development**
 
 - 💬 Ask me about **Agent SDK, RAG, Crew AI, LangGraph, AutoGen, and MCP servers**
 
