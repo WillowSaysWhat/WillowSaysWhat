@@ -3,11 +3,11 @@
 <h3 align="center">YouTuber and Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willowsayswhat&label=Profile%20views&color=0e75b6&style=flat" alt="willowsayswhat" /> </p>
 
-- 🔭 I’m currently working on **Gettin' awesome at Cursor AI**.
+- 🔭 I’m currently working on **Gettin' awesome at future-proofing**.
 
-- 🌱 I’m learning **more about Mobile App Development**
+- 🌱 I’m learning **AI Agentic Development **
 
-- 💬 Ask me about **ChatGPT Apps SDK**
+- 💬 Ask me about **Agent SDK, RAG, Crew AI, LangGraph, AutoGen, and MCP servers**
 
 - ⚡ Fun fact **I am both British and Australian.**
 
