@@ -3,13 +3,13 @@
 <h3 align="center">YouTuber and Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willowsayswhat&label=Profile%20views&color=0e75b6&style=flat" alt="willowsayswhat" /> </p>
 
-- 🔭 I’m currently working on **Gettin' awesome at future-proofing**.
+- 🔭 I’m currently working on **Gettin' awesome at future-proofing.**.
 
-- 🌱 I’m learning **AI Agentic Development**
+- 🌱 I’m learning **AI Agentic Development, and Enfusion Workbench.**
 
-- 💬 Ask me about **Agent SDK, RAG, Crew AI, LangGraph, AutoGen, and MCP servers**
+- 💬 Ask me about **Agent SDK, RAG, Crew AI, LangGraph, and MCP servers**
 
-- ⚡ Fun fact **I am both British and Australian.**
+- ⚡ Fun fact **I am a small-time YouTuber**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
