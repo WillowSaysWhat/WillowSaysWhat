@@ -11,11 +11,6 @@
 
 - ⚡ Fun fact **I am a small-time YouTuber**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-</p>
-
 <br>
 
 <p align="center">
