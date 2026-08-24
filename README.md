@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Gettin' awesome at future-proofing.**.
 
-- 🌱 I’m learning **AI Agentic Development, and Enfusion Workbench.**
+- 🌱 I’m learning **AI Agentic Development, and Mobile Development**
 
-- 💬 Ask me about **Agent SDK, RAG, Crew AI, LangGraph, and MCP servers**
+- 💬 Ask me about **Agent SDK, RAG, Crew AI, LangGraph.**
 
 - ⚡ Fun fact **I am a small-time YouTuber**
 
